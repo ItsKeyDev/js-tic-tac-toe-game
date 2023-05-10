@@ -2,7 +2,7 @@
 
 A simple tic tac toe game using vanilla javascript.
 
-Demo: [https://github.com/ItsKeyDev/tic-tac-toe-game.git/](https://github.com/ItsKeyDev/tic-tac-toe-game.git)
+Demo: [https://itskeydev.github.io/js-tic-tac-toe-game/](https://itskeydev.github.io/js-tic-tac-toe-game/)
 
 ## Game elements
 
